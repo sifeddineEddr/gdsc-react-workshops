@@ -13,6 +13,7 @@ const navbarLinks = [
   },
 ];
 
+
 const footerData = [
   {
     category: "All products",
@@ -51,10 +52,10 @@ const footerData = [
 ];
 
 const shopSectionData = [
-  { label: "laptops", image: "laptops.png" },
-  { label: "watches", image: "watches.png" },
-  { label: "tablets", image: "tablets.png" },
-  { label: "phones", image: "phones.png" },
+  { label: "laptops", image: "/images/laptops.png" },
+  { label: "watches", image: "/images/watches.png" },
+  { label: "tablets", image: "/images/tablets.png" },
+  { label: "phones", image: "/images/phones.png" },
 ];
 
 const products = [

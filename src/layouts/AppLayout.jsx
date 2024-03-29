@@ -5,7 +5,7 @@ import Footer from '../components/Footer/Footer';
 
 function AppLayout() {
   return (
-    <div className='flex flex-col h-screen'>
+    <div className='flex flex-col h-screen '>
       <NavBar />
       <div className='flex-1 w-4/5 mx-auto'>
       <Outlet />
